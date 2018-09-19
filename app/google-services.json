@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "766309176021",
+    "firebase_url": "https://blogapp-8ddfe.firebaseio.com",
+    "project_id": "blogapp-8ddfe",
+    "storage_bucket": "blogapp-8ddfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766309176021:android:948c5c3f67508069",
+        "android_client_info": {
+          "package_name": "br.com.papaxibe.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766309176021-7stsmv9jql4hq3qp324376moic7r4spd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7R2r0GLe5D2KYfTKeV1dWbevbo8RNT6w"
+        },
+        {
+          "current_key": "AIzaSyB7R2r0GLe5D2KYfTKeV1dWbevbo8RNT6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
