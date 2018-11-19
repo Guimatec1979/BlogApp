@@ -15,14 +15,19 @@
       },
       "oauth_client": [
         {
+          "client_id": "766309176021-o5erej6f5qnpu9p9shhdegqgbon7bm9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.papaxibe.blogapp",
+            "certificate_hash": "244e72500bfe849fc049579a1791a0c407812322"
+          }
+        },
+        {
           "client_id": "766309176021-7stsmv9jql4hq3qp324376moic7r4spd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
-        {
-          "current_key": "AIzaSyB7R2r0GLe5D2KYfTKeV1dWbevbo8RNT6w"
-        },
         {
           "current_key": "AIzaSyB7R2r0GLe5D2KYfTKeV1dWbevbo8RNT6w"
         }
@@ -32,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766309176021-7stsmv9jql4hq3qp324376moic7r4spd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
